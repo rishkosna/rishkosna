@@ -1,4 +1,4 @@
-Hi, I'm Rishi!
+What's up, I'm Rishi!
 
 I'm a student at Columbia University majoring in Operations Research: Analytics, with minors in Computer Science and History. As of right now, I am interested in the fields of quatitative/algoritmic trading and fintech.
 
